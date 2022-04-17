@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ForsenPlace Script (Modified by YisusOnDev for esPlace)
+// @name         ForsenPlace Script (Modified by Jarin Lima)
 // @namespace    https://github.com/YisusOnDev/esplace-war
 // @version      16
 // @description  Script 
